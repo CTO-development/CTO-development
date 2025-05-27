@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -26,8 +27,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-🚨 **[👉 Click here to OZCCO API Documentation](https://ozcco.khuzam.io/docs)**
 🚨 **[👉 Click here to Almusanid API Documentation](https://khuzam.io/documentation)**
+
+🚨 **[👉 Click here to OZCCO API Documentation](https://ozcco.khuzam.io/docs)**
 
 ## 📈 GitHub
 ![CTO-development's GitHub stats](https://github-readme-stats.vercel.app/api?username=CTO-development&show_icons=true&theme=dark)
