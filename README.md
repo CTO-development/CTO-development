@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Linux](https://img.shields.io/badge/-Linux-336791?style=flat&logo=Linux)
 
 ## 📈 GitHub
 ![CTO-development's GitHub stats](https://github-readme-stats.vercel.app/api?username=CTO-development&show_icons=true&theme=dark)
