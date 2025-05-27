@@ -11,6 +11,7 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/-Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 ![Apple](https://img.shields.io/badge/-MacBook-000000?style=flat&logo=apple&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=flat&logo=iterm2&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
