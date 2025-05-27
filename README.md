@@ -3,6 +3,7 @@
 - 🌍 PHP, Laravel, PostgreSQL, Python, MySQL
 
 ## 🧰
+![JavaScript](https://img.shields.io/badge/-JavaScript-8892BF?style=flat&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
