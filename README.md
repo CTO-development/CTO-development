@@ -6,6 +6,8 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Apple](https://img.shields.io/badge/-MacBook-000000?style=flat&logo=apple&logoColor=white)
+![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=flat&logo=iterm2&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php)
