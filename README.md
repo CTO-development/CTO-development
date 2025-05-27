@@ -1,4 +1,4 @@
-# Hi there 👋 CTO-development
+# Hi there 👋 CTO-development 🐙
 - 🎯 I’m working web dev to **CTO** on **[Almusanid 🌐](https://almusanid.com/)**
 - 🧠 Constantly learning & sharing what I learn
 ---
