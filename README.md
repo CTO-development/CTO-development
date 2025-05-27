@@ -1,6 +1,6 @@
 # Hi there 👋 CTO-development
 - 🎯 I’m working web dev to **CTO** on **[Almusanid 🌐](https://almusanid.com/)**
-- 🌍 PHP, Laravel, PostgreSQL, Python, MySQL
+- 🧠 Constantly learning & sharing what I learn
 
 ## 🧰
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
