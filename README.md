@@ -1,8 +1,9 @@
 # Hi there 👋 CTO-development
 - 🎯 I’m working web dev to **CTO** on **[Almusanid 🌐](https://almusanid.com/)**
 - 🧠 Constantly learning & sharing what I learn
-
+---
 ## 🧰
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel)
