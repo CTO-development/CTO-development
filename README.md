@@ -26,10 +26,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
+
+
+## 📈 GitHub
+![CTO-development's GitHub stats](https://github-readme-stats.vercel.app/api?username=CTO-development&show_icons=true&theme=dark)
+
+
 +----------------------------------+
 | 💻 MacBook Terminal              |
 |----------------------------------|
-| almusanid@macbook ~ % stack.sh   |
+| cto@almusanid.com ~ % stack.sh   |
 |                                  |
 |  ✅ JavaScript     ✅ Laravel     |
 |  ✅ PHP            ✅ Python      |
@@ -39,8 +45,3 @@
 |  ✅ Git            ✅ Nginx       |
 |                                  |
 +----------------------------------+
-
-
-
-## 📈 GitHub
-![CTO-development's GitHub stats](https://github-readme-stats.vercel.app/api?username=CTO-development&show_icons=true&theme=dark)
